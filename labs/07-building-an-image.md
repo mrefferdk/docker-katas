@@ -370,7 +370,7 @@ Make a `docker image ls` command to see that you have a docker image with the na
 Try now to first:
 
 - remove the container
-- remove the image file as well with the `image rm` [command](https://docs.docker.com/engine/reference/commandline/image_rm/).
+- remove the image file as well with the `docker image rm` [command](https://docs.docker.com/engine/reference/commandline/image_rm/).
 - make `docker image ls` again to see that it's gone.
 
 ### Instructions
